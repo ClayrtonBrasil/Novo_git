@@ -1,3 +1,9 @@
 function mostraNome(nome){
     return nome
 }
+
+function mostraNumero(numero){
+    return numero
+}
+
+//Finalizado mudancas
